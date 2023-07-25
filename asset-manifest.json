@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://junlianglu.github.io/csb-zjvz3j/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://junlianglu.github.io/csb-zjvz3j/static/js/main.8bbb002a.chunk.js",
+    "main.js.map": "https://junlianglu.github.io/csb-zjvz3j/static/js/main.8bbb002a.chunk.js.map",
+    "runtime-main.js": "https://junlianglu.github.io/csb-zjvz3j/static/js/runtime-main.c8fb74fd.js",
+    "runtime-main.js.map": "https://junlianglu.github.io/csb-zjvz3j/static/js/runtime-main.c8fb74fd.js.map",
+    "static/js/2.796d186f.chunk.js": "https://junlianglu.github.io/csb-zjvz3j/static/js/2.796d186f.chunk.js",
+    "static/js/2.796d186f.chunk.js.map": "https://junlianglu.github.io/csb-zjvz3j/static/js/2.796d186f.chunk.js.map",
+    "index.html": "https://junlianglu.github.io/csb-zjvz3j/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://junlianglu.github.io/csb-zjvz3j/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.796d186f.chunk.js.LICENSE.txt": "https://junlianglu.github.io/csb-zjvz3j/static/js/2.796d186f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8fb74fd.js",
+    "static/js/2.796d186f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8bbb002a.chunk.js"
+  ]
+}
